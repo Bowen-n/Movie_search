@@ -1,4 +1,4 @@
-# Dytt movie
+# Movie search
 Search movie on [**MovieHeaven**](https://www.dytt8.net/), don't worry about ads on the MovieHeaven web anymore.<br>
 GUI is designed using Qt Designer.
 
